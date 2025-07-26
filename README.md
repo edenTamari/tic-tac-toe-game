@@ -20,7 +20,6 @@ Players alternate turns on a square board of any size (3x3 or larger) until some
 #### Example Input
 
 ```text
-🎮 Welcome to Tic-Tac-Toe!
 Enter board size (3 for classic 3x3, or larger): 3
 
 Current Board:
